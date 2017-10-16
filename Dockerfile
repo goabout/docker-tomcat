@@ -1,4 +1,4 @@
-FROM tomcat:7-jre7
+FROM tomcat:8.5-jre7
 
 MAINTAINER Go About <tech@goabout.com>
 
